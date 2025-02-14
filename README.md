@@ -4,4 +4,6 @@
 This course is designed for students pursuing careers in programming, networking, and general Information Technology fields. Introduces computer, networking, and programming concepts.
 
 #My Portfolio Repository
-###https://new.express.adobe.com/id/urn:aaid:sc:US:a47f001f-6913-42a6-b512-674d8c216c0b?invite=true&accept=true&promoid=Z2G1FQKR&mv=other
+##https://new.express.adobe.com/id/urn:aaid:sc:US:a47f001f-6913-42a6-b512-674d8c216c0b?invite=true&accept=true&promoid=Z2G1FQKR&mv=other
+###logo.png is to is my coding logo to eventually be used in a website. 
+#### I also attatched logo.mp4 because I plan to use audio and animation in my logo for my website
