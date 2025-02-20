@@ -9,3 +9,6 @@ This course is designed for students pursuing careers in programming, networking
 
 ###logo.png is to is my coding logo to eventually be used in a website. 
 #### I also attatched logo2.mp4 because I plan to use audio and animation in my logo for my website
+
+#PasswordLogic 
+###This file is a representation of a flow chart demonstrating what happens when a number represented by variable X is <,>, and = 100
