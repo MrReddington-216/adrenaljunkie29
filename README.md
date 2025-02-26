@@ -13,3 +13,5 @@ This course is designed for students pursuing careers in programming, networking
 #PasswordLogic 
 
 ###This file is a representation of a flow chart demonstrating what happens when a number represented by variable X is <,>, and = 100
+
+##I created a Python program that has comments of my name and purpose as well as and if Else type statement that runs successfully
