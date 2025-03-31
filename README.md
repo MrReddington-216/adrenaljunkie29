@@ -18,3 +18,4 @@ This course is designed for students pursuing careers in programming, networking
 
 #I just rencently attached my OOP file made in python adding a flowerand excecisiing using comments
 ## My diagram file was created to show the class named flower with all its attributes listed under
+##Today I uploaded a python code with an output of if my integer is greater or less than my assigned value 
