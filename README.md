@@ -22,3 +22,4 @@ This course is designed for students pursuing careers in programming, networking
 
 
 ##I posted an upload called network that simiilarity resembles the layout of my household. I have computer devices wired to my router. Then i have a host of wireless connections going around in my household such as tvs, cell phones, printers, etc.
+##Today I posted a query of a filtered search of all customers by their ID number in this case greater than 20. Then I ordered them in descending order by country starting with the bottom of the alphabet up to A.
