@@ -25,3 +25,5 @@ This course is designed for students pursuing careers in programming, networking
 
 
 ##Today I posted a query of a filtered search of all customers by their ID number in this case greater than 20. Then I ordered them in descending order by country starting with the bottom of the alphabet up to A.
+
+#Today I uploaded a website named MYHTML about marijuana. It showed me the benefits of how to create a webpage.
